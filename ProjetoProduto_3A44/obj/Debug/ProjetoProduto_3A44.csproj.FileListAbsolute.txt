@@ -1,0 +1,95 @@
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.exe.config
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.Properties.Resources.resources
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmCategoria.resources
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\ProjetoProduto_3A44.exe.config
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\ProjetoProduto_3A44.exe
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\ProjetoProduto_3A44.pdb
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\MySql.Data.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Google.Protobuf.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Zstandard.Net.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Renci.SshNet.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Buffers.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Memory.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\MySql.Data.xml
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csproj.CopyComplete
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.exe
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.pdb
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmFornecedor.resources
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmTipoUsuario.resources
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmPrincipal.resources
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmCliente.resources
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmProduto.resources
+C:\Users\Win10\Desktop\Aulas online\POO\2ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmLogin.resources
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\ProjetoProduto_3A44.exe.config
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\ProjetoProduto_3A44.exe
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\ProjetoProduto_3A44.pdb
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\MySql.Data.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Google.Protobuf.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Zstandard.Net.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Renci.SshNet.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Buffers.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Memory.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\MySql.Data.xml
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.exe.config
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.Properties.Resources.resources
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmCategoria.resources
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmCliente.resources
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmFornecedor.resources
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmLogin.resources
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmPrincipal.resources
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmProduto.resources
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmTipoUsuario.resources
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csproj.CopyComplete
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.exe
+C:\Users\Win10\Desktop\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.pdb
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\ProjetoProduto_3A44.exe.config
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\ProjetoProduto_3A44.exe
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\ProjetoProduto_3A44.pdb
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Google.Protobuf.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Zstandard.Net.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\BouncyCastle.Crypto.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Ubiety.Dns.Core.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\Renci.SshNet.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Buffers.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\K4os.Compression.LZ4.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\K4os.Hash.xxHash.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Memory.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\System.Numerics.Vectors.dll
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\bin\Debug\MySql.Data.xml
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csprojAssemblyReference.cache
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.exe.config
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.Properties.Resources.resources
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmCategoria.resources
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmCliente.resources
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmFornecedor.resources
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmLogin.resources
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmPrincipal.resources
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmProduto.resources
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.FrmTipoUsuario.resources
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csproj.GenerateResource.cache
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csproj.CoreCompileInputs.cache
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.csproj.CopyComplete
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.exe
+D:\Area de Trabalho 2\Aulas online\POO\3ºTrimestre\ProjetoProduto_3A44\ProjetoProduto_3A44\obj\Debug\ProjetoProduto_3A44.pdb
